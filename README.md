@@ -32,6 +32,6 @@ La branche master correspond au code à la fin de la formation.
 [0]: # (Replace these placeholder URLs with actual course URLs)
 [lil-course-url]: https://www.linkedin.com/learning/chatgpt-developper-avec-le-plug-in-advanced-data-analysis
 [lil-thumbnail-url]: https://media.licdn.com/dms/image/D4E0DAQENZKcHPYD5dA/learning-public-crop_675_1200/0/1699858084845?e=2147483647&v=beta&t=Iiupi40MNnhD7HKq9OVggmkewHUBG0-QCGrKIwIDyjE
-[lil-URL-trainer]: [https://](https://www.linkedin.com/learning/instructors/sandy-ludosky)
+[lil-URL-trainer]: (https://www.linkedin.com/learning/instructors/sandy-ludosky)
 
 [1]: # (End of FR-Instruction ###############################################################################################)
